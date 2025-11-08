@@ -7,7 +7,7 @@ import time
 
 
 
-# Streamed response emulator
+# Streamed response emulator 
 def response_generator():
     response = random.choice(
         [
